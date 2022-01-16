@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Steve",
+    "lasr name": "Rogers",
+    "isAvenger": true,
+    "friends": ["Bruce", "Peter", "Natasha"],
+    "age": 45,
+    "Address": { "city": "New York", "state": "manhatten" }
+  },
+  {
+    "name": "Peter",
+    "lasr name": "Parker",
+    "isAvenger": true,
+    "friends": ["Bruce", "Peter", "Natasha"],
+    "age": 45,
+    "Address": { "city": "New York", "state": "manhatten" }
+  },
+  {
+    "name": "Natasha",
+    "lasr name": "Romanoff",
+    "isAvenger": true,
+    "friends": ["Bruce", "Peter", "Natasha"],
+    "age": 45,
+    "Address": { "city": "New York", "state": "manhatten" }
+  },
+  {
+    "name": "Peter",
+    "lasr name": "Parker",
+    "isAvenger": true,
+    "friends": ["Bruce", "Peter", "Natasha"],
+    "age": 45,
+    "Address": { "city": "New York", "state": "manhatten" }
+  },
+  {
+    "name": "Tony",
+    "lasr name": "Starc",
+    "isAvenger": true,
+    "friends": ["Bruce", "Peter", "Natasha"],
+    "age": 45,
+    "Address": { "city": "New York", "state": "manhatten" }
+  },
+  {
+    "name": "Tony",
+    "lasr name": "Starc",
+    "isAvenger": true,
+    "friends": ["Bruce", "Peter", "Natasha"],
+    "age": 45,
+    "Address": { "city": "New York", "state": "manhatten" }
+  },
+  {
+    "name": "Tony",
+    "lasr name": "Starc",
+    "isAvenger": true,
+    "friends": ["Bruce", "Peter", "Natasha"],
+    "age": 45,
+    "Address": { "city": "New York", "state": "manhatten" }
+  }
+]
